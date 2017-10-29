@@ -1,0 +1,12 @@
+Package: plymouth-theme-biglinux-plasma
+Version: 1.0.0-1big9
+Depends: plymouth
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:844
+Description: Plymouth theme for BigLinux made by lunimare
+
+
+
